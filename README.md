@@ -12,10 +12,13 @@ Download fra Github
 Udpak filerne til en lokation du selv kan finde
 
 Åben den lokation i en terminal og kør følgende kommandoer i rækkefølge
+
 npm install
+
 npx create-expo-app Oversigt
 
 Åben Expo appen og skriv følgende kommando
+
 npx expo start
 
 # Android
