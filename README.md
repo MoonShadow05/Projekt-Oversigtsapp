@@ -2,6 +2,7 @@
 
 # Afhængigheder
 NodeJS
+
 Expo Go appen på telefonen
 
 # Installation af programmet
